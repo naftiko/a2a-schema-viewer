@@ -1,2 +1,2 @@
-# a2a-schema-viewer
-This is a schema viewer for the A2A specification.
+# capabilities-schema-viewer
+This is a JSON Schema explorer for the Capabilities schema.
